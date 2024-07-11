@@ -1,0 +1,1 @@
+This repository contains the data used in the paper "AI-enhanced Collective Intelligence: The State of the Art and Prospects." It includes processed data files sourced from the Supermind Design database, accessible at https://www.supermind.design/database.
